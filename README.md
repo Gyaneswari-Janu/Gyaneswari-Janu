@@ -165,7 +165,7 @@ View Repository →
 
 # 🌐 Coding Profiles
 
-<h2>💻 Coding Profiles</h2>
+
 
 <p align="center">
 
