@@ -67,34 +67,16 @@ data science, and generative AI.
 
 ## 🎯 Currently Building & Learning
 
-<h2>🚀 Currently Building & Learning</h2>
+✔️ Data Structures & Algorithms
 
-<table>
-<tr>
-<td width="50%" valign="top">
+✔️ SQL & Database Management
 
-### 🔨 Building
+✔️ Machine Learning
 
-- 📄 **DocuQuery AI** — AI-powered document Q&A and RAG application
-- 🎯 **PlacementGPT** — AI-powered placement preparation platform
-- 📊 **Data Science Projects** — Exploring real-world datasets and building analytical dashboards
+✔️ Generative AI & RAG
 
-</td>
+✔️ Building real-world projects
 
-<td width="50%" valign="top">
-
-### 📚 Learning
-
-- 🐍 Python & Advanced Python
-- ☕ Java & Object-Oriented Programming
-- 🗄️ SQL & DBMS
-- 🧠 Data Structures & Algorithms
-- 🤖 Machine Learning & Generative AI
-- 🔎 Retrieval-Augmented Generation (RAG)
-
-</td>
-</tr>
-</table>
 ### 💡 Learning Philosophy
 
 > Small steps every day  
