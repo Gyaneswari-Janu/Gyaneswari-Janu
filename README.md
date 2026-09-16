@@ -165,27 +165,23 @@ View Repository →
 
 # 🌐 Coding Profiles
 
-<div align="center">
+<h2>💻 Coding Profiles</h2>
 
-<a href="https://github.com/Gyaneswari-Janu">
-<img src="https://img.shields.io/badge/GitHub-Gyaneswari--Janu-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<p align="center">
 
-&nbsp;&nbsp;
+  <a href="https://github.com/Gyaneswari-Janu">
+    <img src="https://img.shields.io/badge/GitHub-Gyaneswari--Janu-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-<a href="YOUR_LEETCODE_LINK">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-</a>
+  <a href="https://leetcode.com/u/nuQISWTwzB/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
 
-&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/gyaneswarineela1">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
 
-<a href="YOUR_HACKERRANK_LINK">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black">
-</a>
-
-</div>
-
----
+</p>
 
 # 📈 GitHub Activity
 
