@@ -1,71 +1,94 @@
-# Gyaneswari Janu
+# Hi, I'm Gyaneswari Janu 👋
 
-### CSD Student • Python • Data Science • AI/ML • SQL
+### 🎓 B.Tech CSD Student | Aspiring Software Developer & AI/ML Engineer
 
-> Building practical applications while exploring software development,
-> data science, and generative AI.
-
----
-
-## About
-
-- 🎓 Final-year B.Tech CSD student
-- 💻 Interested in Software Development, Data Science & AI
-- 🧩 Practicing problem solving with Python and Java
-- 🤖 Exploring Generative AI and RAG applications
-- 📊 Working with data analysis and visualization
+- 🔭 **Currently building:** DocuQuery AI & PlacementGPT
+- 🧠 **Focus Areas:** Python, Data Structures & Algorithms, SQL, Data Science & Generative AI
+- 💻 **Interested in:** Software Development, AI/ML, Data Analytics & RAG Applications
+- 📚 **Currently strengthening:** Python, Java, SQL, DSA and Machine Learning
+- 🚀 **Goal:** Build practical projects and grow as a software & AI engineer
 
 ---
 
-## Tech
+## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
-`Python` `Java` `JavaScript` `SQL`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Data & AI**
+### Data Science & AI
 
-`Pandas` `NumPy` `Scikit-learn` `Data Analysis` `Machine Learning` `RAG`
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge)
 
-**Development**
+### Development & Tools
 
-`Streamlit` `REST APIs` `HTML` `CSS`
-
-**Tools**
-
-`Git` `GitHub` `VS Code` `Jupyter`
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## Selected Projects
+## 📌 Featured Projects
 
-### DocuQuery AI
+### 📄 DocuQuery AI
+
 **AI • RAG • Document Processing**
 
 An AI-powered document question-answering application that retrieves
 relevant information from uploaded documents and generates grounded
 responses.
 
-### PlacementGPT
+**Tech:** Python • Streamlit • RAG • Semantic Search • FAISS • BM25 • Gemini
+
+---
+
+### 🤖 PlacementGPT
+
 **AI • Career Technology**
 
-An AI-based application focused on helping students with placement
-preparation and career guidance.
+An AI-powered placement preparation system designed to assist students
+with interview preparation and career guidance.
 
-### Blinkit Grocery Sales Analysis
+**Tech:** JavaScript • AI • Web Development
+
+---
+
+### 📊 Blinkit Grocery Sales Analysis
+
 **Data Analysis • Visualization**
 
-A data analysis project exploring grocery sales data and presenting
-insights through an interactive dashboard.
+A data analysis project focused on exploring grocery sales data and
+presenting meaningful insights through an interactive dashboard.
+
+**Focus:** Data Analysis • Data Visualization • Business Insights
 
 ---
 
-## What I'm Exploring
+## 🌐 Coding Profiles
 
-`Data Structures & Algorithms` · `SQL` · `Machine Learning` · `Generative AI`
+[![GitHub](https://img.shields.io/badge/GitHub-Gyaneswari--Janu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gyaneswari-Janu)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](YOUR_HACKERRANK_URL)
 
 ---
 
-### Connect
+## 🎯 Current Focus
 
-[LinkedIn](YOUR_LINKEDIN_URL) • [GitHub](https://github.com/Gyaneswari-Janu)
+```text
+Python              ███████████████░░░░░
+Data Structures     ████████████░░░░░░░░
+SQL                 ████████████░░░░░░░░
+Data Science        ██████████░░░░░░░░░░
+Generative AI       ██████████░░░░░░░░░░
